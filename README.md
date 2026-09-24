@@ -19,10 +19,3 @@ A structured overview of my Data Science, Machine Learning, Deep Learning and ML
 - [Insurance Claim Prediction](insurance_claim_classification.ipynb)  
   Classification project focusing on highly imbalanced insurance claim data.
 
-## Areas I Plan to Explore
-
-- Natural Language Processing
-- Large Language Models
-- RAG Applications
-- AI Agents
-- Advanced Cloud Deployment
